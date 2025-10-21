@@ -34,7 +34,7 @@
   <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 40px;">📈 Development Activity</h3>
   
   <a href="https://github.com/faridfrs19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&hide_border=true&bg_color=1a2b3c&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&hide_border=true&bg_color=101620&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" 
          height="180" 
          alt="Top Languages"
          title="My Top Languages"
@@ -42,7 +42,7 @@
     />
   </a>
   <a href="https://github.com/faridfrs19">
-    <img src="https://streak-stats.demolab.com?user=faridfrs19&locale=en&mode=daily&hide_border=true&border_radius=70&ring=FF8C00&fire=E74C3C&currStreakNum=E74C3C&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=1a2b3c&stroke=FFFFFF&currStreakLabel=FFFFFF" 
+    <img src="https://streak-stats.demolab.com?user=faridfrs19&locale=en&mode=daily&hide_border=true&border_radius=70&ring=FF8C00&fire=E74C3C&currStreakNum=E74C3C&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0d1117&stroke=FFFFFF&currStreakLabel=FFFFFF" 
          height="180" 
          alt="GitHub Streak"
          title="My GitHub Streak"
