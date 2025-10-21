@@ -34,7 +34,7 @@
   <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 40px;">📈 Development Activity</h3>
   
   <a href="https://github.com/faridfrs19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&hide_border=true&bg_color=101620&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" 
          height="180" 
          alt="Top Languages"
          title="My Top Languages"
