@@ -34,9 +34,7 @@
 <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 10px;">🛠️ My Skillset & Knowledge</h3>
 
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,mysql,firebase,postman,vue,nuxtjs,dart,flutter,react,nextjs,
-  &perline=8
-  &iconsize=40" 
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,mysql,firebase,postman,vue,nuxtjs,dart,flutter,react,nextjs" 
   alt="My Skill Icons" 
   />
 </div>
@@ -46,8 +44,7 @@
 
 <p align="left">
 <a href="https://www.youtube.com/@faridfrs0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="50" /></a>
-<a href="https://www.instagram.com/frd129_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram,
-  &iconsize=40" 
+<a href="https://www.instagram.com/frd129_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" 
   alt="Instagram" /></a>
 </p>
 
