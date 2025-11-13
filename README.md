@@ -29,7 +29,7 @@
 <!-- Garis -->
 <hr style="border: none; border-top: 3px solid #9f9797ff; box-shadow: 0 2px 3px rgba(0,0,0,0.2); margin: 30px 0;">
 
-###
+<!-- ### -->
 
 <!-- <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 10px;">🛠️ My Skillset & Knowledge</h3> -->
 
