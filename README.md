@@ -31,13 +31,13 @@
 
 ###
 
-<h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 10px;">🛠️ My Skillset & Knowledge</h3>
+<!-- <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 10px;">🛠️ My Skillset & Knowledge</h3> -->
 
-<div align="left"> 
+<!-- <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,mysql,firebase,postman,vue,nuxtjs,dart,flutter,react,nextjs" 
   alt="My Skill Icons" 
   />
-</div>
+</div> -->
 
 <br>
 <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 10px;">🔗 Connect with Me</h3>
