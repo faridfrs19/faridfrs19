@@ -61,7 +61,7 @@
 <div align="center">
   <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 40px;">📈 Development Activity</h3>
   
-  <a href="https://github.com/faridfrs19">
+  <!-- <a href="https://github.com/faridfrs19">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" 
          height="180" 
          alt="Top Languages"
@@ -76,7 +76,7 @@
          title="My GitHub Streak"
          style="margin-left: -20px; transform: scale(3deg); position: relative; z-index: 1;" 
     />
-  </a>
+  </a> -->
 </div>
 
 <!-- Snake -->
