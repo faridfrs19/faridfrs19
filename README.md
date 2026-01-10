@@ -49,34 +49,6 @@
   </p>
 </div>
 
-<!-- DIVIDER -->
-<hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
-
-<!-- SKILLS -->
-<div align="center">
-  <h3 style="margin: 0 0 12px 0;">🛠️ Tech Stack</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap,vue,nuxtjs,dart,flutter,firebase,mysql,postman&perline=8"
-    alt="Tech Stack"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://img.shields.io/badge/Style-Component%20Driven-0ea5e9?style=for-the-badge"
-    alt="Style"
-  />
-  <img
-    src="https://img.shields.io/badge/Focus-Security%20%26%20DX-f97316?style=for-the-badge"
-    alt="Focus"
-  />
-  <img
-    src="https://img.shields.io/badge/Workflow-Clean%20Code%20%2B%20Reusable%20UI-22c55e?style=for-the-badge"
-    alt="Workflow"
-  />
-</div>
-
 <br/>
 
 <!-- DIVIDER -->
@@ -116,35 +88,6 @@
 <!-- STATS -->
 <div align="center">
   <h3 style="margin: 0 0 14px 0;">📈 Development Activity</h3>
-
-  <a href="https://github.com/faridfrs19">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=faridfrs19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e"
-      height="170"
-      alt="GitHub Stats"
-      style="border-radius: 16px;"
-    />
-  </a>
-
-  <a href="https://github.com/faridfrs19">
-    <img
-      src="https://streak-stats.demolab.com?user=faridfrs19&hide_border=true&background=0D1117&ring=22c55e&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
-      height="170"
-      alt="GitHub Streak"
-      style="border-radius: 16px; margin-left: 10px;"
-    />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/faridfrs19">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"
-      height="160"
-      alt="Top Languages"
-      style="border-radius: 16px;"
-    />
-  </a>
 </div>
 
 <br/>
