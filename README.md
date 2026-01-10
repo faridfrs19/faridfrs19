@@ -1,96 +1,163 @@
-<!-- Gif -->
+<!-- HERO / COVER -->
 <div align="center">
-  <!-- Gif Deadline -->
-  <!-- <img src="https://i.gifer.com/39Cg.gif" /> -->
-  <!-- Gif Anime -->
-  <img src="https://i.imgur.com/7A5ZfPJ.gif" style="width: 100%; max-width: 800px; border-radius: 10px;"  />
-</div>
-
-<!-- Name -->
-<div align="center">
-  <a href="https://github.com/faridfrs19">
-    <img 
-        src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=FFFFFF&width=600&lines=Hello%2C+I'm+Farid+Firdaus+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Mobile+App+Developer+%F0%9F%93%B2&center=true&vCenter=true" 
-        alt="Typing SVG"
-    />
-  </a>
-</div>
-
-<!-- Profile Views -->
-<div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=faridfrs19&label=PROFILE+VIEWS&color=E74C3C&style=for-the-badge" 
-    alt="Profile Views Counter" 
+  <img
+    src="https://i.imgur.com/7A5ZfPJ.gif"
+    alt="hero"
+    style="width:100%; max-width: 920px; border-radius: 16px; border: 1px solid rgba(255,255,255,.10); box-shadow: 0 16px 40px rgba(0,0,0,.35);"
   />
 </div>
 
-###
+<br/>
 
-<!-- Garis -->
-<hr style="border: none; border-top: 3px solid #9f9797ff; box-shadow: 0 2px 3px rgba(0,0,0,0.2); margin: 30px 0;">
-
-<!-- ### -->
-
-<!-- <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 10px;">🛠️ My Skillset & Knowledge</h3> -->
-
-<!-- <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,mysql,firebase,postman,vue,nuxtjs,dart,flutter,react,nextjs" 
-  alt="My Skill Icons" 
-  />
-</div> -->
-
-<br>
-<h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 10px;">🔗 Connect with Me</h3>
-
-<p align="left">
-<a href="https://www.youtube.com/@faridfrs0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="50" /></a>
-<a href="https://www.instagram.com/frd129_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" 
-  alt="Instagram" /></a>
-</p>
-
-<!-- Garis -->
-<hr style="
-  border: none; 
-  border-top: 3px solid #9f9797ff; 
-  box-shadow: 0 2px 3px rgba(0,0,0,0.2); 
-  margin: 30px 0;
-  clear: both;
-">
-
-<!-- Status -->
+<!-- NAME + TYPING -->
 <div align="center">
-  <h3 style="color: #FFFFFF; font-size: 2em; font-weight: 600; margin-bottom: 40px;">📈 Development Activity</h3>
-  
-  <!-- <a href="https://github.com/faridfrs19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" 
-         height="180" 
-         alt="Top Languages"
-         title="My Top Languages"
-         style="border-radius: 20px; transform: scale(-6deg);" 
+  <a href="https://github.com/faridfrs19">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Farid+Firdaus+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Mobile+App+Developer+%F0%9F%93%B2;Build+Clean+UI+%26+Secure+Systems+%E2%9C%A8"
+      alt="Typing SVG"
     />
   </a>
-  <a href="https://github.com/faridfrs19">
-    <img src="https://streak-stats.demolab.com?user=faridfrs19&locale=en&mode=daily&hide_border=true&border_radius=70&ring=FF8C00&fire=E74C3C&currStreakNum=E74C3C&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0d1117&stroke=FFFFFF&currStreakLabel=FFFFFF" 
-         height="180" 
-         alt="GitHub Streak"
-         title="My GitHub Streak"
-         style="margin-left: -20px; transform: scale(3deg); position: relative; z-index: 1;" 
-    />
-  </a> -->
 </div>
 
-<!-- Snake -->
-<a href="https://github.com/faridfrs19">
-<img src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg" alt="Snake animation" />
-</a>
+<!-- BADGES -->
+<div align="center" style="margin-top: 10px;">
+  <img
+    src="https://komarev.com/ghpvc/?username=faridfrs19&label=PROFILE+VIEWS&color=E74C3C&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <a href="https://github.com/faridfrs19?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/faridfrs19?label=FOLLOWERS&style=for-the-badge&color=5865F2"
+      alt="Followers"
+    />
+  </a>
+  <a href="https://github.com/faridfrs19?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/FOCUS-Fullstack%20%26%20UI%2FUX-22c55e?style=for-the-badge"
+      alt="Focus"
+    />
+  </a>
+</div>
 
-<br clear="both">
+<br/>
 
-<!-- Pacman -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/pacman-contribution-graph.svg">
-</picture> -->
+<!-- SHORT INTRO -->
+<div align="center" style="max-width: 920px; margin: 0 auto; line-height: 1.6;">
+  <p>
+    I build modern web & mobile apps with a focus on <b>clean UI</b>, <b>performance</b>, and <b>security</b>.
+    Currently working with <b>React / Next.js</b> and <b>Flutter</b>.
+  </p>
+</div>
 
-###
+<!-- DIVIDER -->
+<hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
+
+<!-- SKILLS -->
+<div align="center">
+  <h3 style="margin: 0 0 12px 0;">🛠️ Tech Stack</h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap,vue,nuxtjs,dart,flutter,firebase,mysql,postman&perline=8"
+    alt="Tech Stack"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://img.shields.io/badge/Style-Component%20Driven-0ea5e9?style=for-the-badge"
+    alt="Style"
+  />
+  <img
+    src="https://img.shields.io/badge/Focus-Security%20%26%20DX-f97316?style=for-the-badge"
+    alt="Focus"
+  />
+  <img
+    src="https://img.shields.io/badge/Workflow-Clean%20Code%20%2B%20Reusable%20UI-22c55e?style=for-the-badge"
+    alt="Workflow"
+  />
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
+
+<!-- CONNECT -->
+<div align="center">
+  <h3 style="margin: 0 0 14px 0;">🔗 Connect with Me</h3>
+
+  <a href="https://www.youtube.com/@faridfrs0310" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/frd129_" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="https://github.com/faridfrs19" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
+
+<!-- STATS -->
+<div align="center">
+  <h3 style="margin: 0 0 14px 0;">📈 Development Activity</h3>
+
+  <a href="https://github.com/faridfrs19">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=faridfrs19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=22c55e"
+      height="170"
+      alt="GitHub Stats"
+      style="border-radius: 16px;"
+    />
+  </a>
+
+  <a href="https://github.com/faridfrs19">
+    <img
+      src="https://streak-stats.demolab.com?user=faridfrs19&hide_border=true&background=0D1117&ring=22c55e&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+      height="170"
+      alt="GitHub Streak"
+      style="border-radius: 16px; margin-left: 10px;"
+    />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/faridfrs19">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=faridfrs19&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"
+      height="160"
+      alt="Top Languages"
+      style="border-radius: 16px;"
+    />
+  </a>
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <a href="https://github.com/faridfrs19">
+    <img
+      src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
+      alt="Snake animation"
+      style="max-width: 920px; width: 100%;"
+    />
+  </a>
+</div>
+
+<br/>
