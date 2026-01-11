@@ -90,8 +90,6 @@
   <h3 style="margin: 0 0 14px 0;">📈 Development Activity</h3>
 </div>
 
-<br/>
-
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
   <a href="https://github.com/faridfrs19">
