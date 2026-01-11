@@ -49,8 +49,6 @@
   </p>
 </div>
 
-<br/>
-
 <!-- DIVIDER -->
 <hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
 
