@@ -21,11 +21,20 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Generates the snake (Pacman style) with High-Contrast Neon Colors
+      - name: generate-pacman-svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/pacman.svg?color_snake=#f9f002&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            # 1. THE CLASSIC NEON (Pacman Kuning Terang + Dot Neon Blue)
+            dist/pacman.svg?color_snake=#f9f002&color_dots=#161b22,#00ffd5,#0089ff,#7000ff,#ff00c8
+
+            # 2. THE EMERALD 3D (Tema Hijau Modern senada dengan profilmu)
+            dist/emerald.svg?color_snake=#39ff14&color_dots=#161b22,#064e3b,#059669,#10b981,#34d399
+
+            # 3. DARK MODE OPTIMIZED (Sangat jelas di background hitam)
+            dist/snake-dark.svg?palette=github-dark&color_snake=#f9f002
         
       # Push the files to the output branch
       - name: push to output branch
