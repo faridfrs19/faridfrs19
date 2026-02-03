@@ -81,15 +81,20 @@
 <!-- DIVIDER -->
 <hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
 
+<!-- STATS -->
+<div align="center">
+  <h3 style="margin: 0 0 14px 0;">📈 Development Activity</h3>
+</div>
 
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
-  <h3 style="color: #22c55e;">🎮 Contribution Journey</h3>
-  <img 
-    src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/pacman.svg" 
-    alt="Pacman Neon" 
-    style="width: 100%; max-width: 850px; filter: drop-shadow(0px 10px 15px rgba(0, 255, 213, 0.2));" 
-  />
+  <a href="https://github.com/faridfrs19">
+    <img
+      src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
+      alt="Snake animation"
+      style="max-width: 920px; width: 100%;"
+    />
+  </a>
 </div>
 
 <br/>
