@@ -69,13 +69,6 @@
       alt="Instagram"
     />
   </a>
-
-  <a href="https://github.com/faridfrs19" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
 </div>
 
 <!-- DIVIDER -->
