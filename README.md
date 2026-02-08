@@ -21,12 +21,6 @@
 
 <!-- BADGES -->
 <div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/faridfrs19?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/faridfrs19?label=FOLLOWERS&style=for-the-badge&color=5865F2"
-      alt="Followers"
-    />
-  </a>
   <a href="https://github.com/faridfrs19?tab=repositories">
     <img
       src="https://img.shields.io/badge/FOCUS-Fullstack%20%26%20UI%2FUX-22c55e?style=for-the-badge"
