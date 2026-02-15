@@ -33,24 +33,10 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=60&section=header" width="100%" />
-</p>
-
 <div align="center">
   <h3 style="margin-bottom: 20px;">📊 My GitHub Analytics</h3>
-  
-  <a href="https://github.com/faridfrs19">
-    <img src="https://github-readme-stats.vercel.app/api?username=faridfrs19&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Farid's Stats" height="170" />
-  </a>
   <a href="https://github.com/faridfrs19">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridfrs19&theme=tokyonight&border_radius=10" alt="Farid's Streak" height="170" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/faridfrs19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridfrs19&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
   </a>
 </div>
 
