@@ -1,4 +1,3 @@
-<!-- HERO / COVER -->
 <div align="center">
   <img
     src="https://i.imgur.com/7A5ZfPJ.gif"
@@ -9,75 +8,78 @@
 
 <br/>
 
-<!-- NAME + TYPING -->
 <div align="center">
   <a href="https://github.com/faridfrs19">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Farid+Firdaus+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Mobile+App+Developer+%F0%9F%93%B2;"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&pause=1000&color=4ADE80&center=true&vCenter=true&width=760&lines=Hello+World!+%F0%9F%91%8B;I'm+Farid+Firdaus;Fullstack+Web+Developer;Mobile+App+Specialist;"
       alt="Typing SVG"
     />
   </a>
 </div>
 
-<!-- BADGES -->
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/faridfrs19?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/FOCUS-Fullstack%20%26%20UI%2FUX-22c55e?style=for-the-badge"
-      alt="Focus"
-    />
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <br/>
 
-<!-- SHORT INTRO -->
-<div align="center" style="max-width: 920px; margin: 0 auto; line-height: 1.6;">
-  <p>
-    I build modern web & mobile apps with a focus on <b>clean UI</b>, <b>performance</b>, and <b>security</b>.
-    Currently working with <b>React / Next.js</b> and <b>Flutter</b>.
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <p align="center">
+    🚀 <strong>Passionate Developer</strong> dedicated to building high-performance applications with 
+    seamless UX. I bridge the gap between complex backend logic and beautiful frontend design.
   </p>
 </div>
 
-<!-- DIVIDER -->
-<hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=60&section=header" width="100%" />
+</p>
 
-<!-- CONNECT -->
 <div align="center">
-  <h3 style="margin: 0 0 14px 0;">🔗 Connect with Me</h3>
-
-  <a href="https://www.youtube.com/@faridfrs0310" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/frd129_" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-</div>
-
-<!-- DIVIDER -->
-<hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent); margin: 28px 0;" />
-
-<!-- STATS -->
-<div align="center">
-  <h3 style="margin: 0 0 14px 0;">📈 Development Activity</h3>
-</div>
-
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
+  <h3 style="margin-bottom: 20px;">📊 My GitHub Analytics</h3>
+  
   <a href="https://github.com/faridfrs19">
-    <img
-      src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
-      alt="Snake animation"
-      style="max-width: 920px; width: 100%;"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=faridfrs19&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Farid's Stats" height="170" />
+  </a>
+  <a href="https://github.com/faridfrs19">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridfrs19&theme=tokyonight&border_radius=10" alt="Farid's Streak" height="170" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/faridfrs19">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridfrs19&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
   </a>
 </div>
 
 <br/>
+
+<div align="center">
+  <h3 style="margin-bottom: 10px;">🐍 Contribution Journey</h3>
+  <img
+    src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
+    alt="Snake animation"
+    style="width: 100%; max-width: 850px;"
+  />
+</div>
+
+<div align="center">
+  <hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(74,222,128,.5), transparent); margin: 30px 0;" />
+  <h3>🌐 Let's Build Something Great!</h3>
+  
+  <a href="https://www.youtube.com/@faridfrs0310" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/frd129_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<p align="center" style="margin-top: 50px;">
+  <img src="https://komarev.com/ghpvc/?username=faridfrs19&label=PROFILE+VIEWS&color=4ADE80&style=flat" alt="Views" />
+</p>
