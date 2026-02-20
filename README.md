@@ -61,9 +61,6 @@
   <a href="https://www.instagram.com/frd129_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:emailkamu@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 <p align="center" style="margin-top: 50px;">
