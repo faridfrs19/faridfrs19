@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/faridfrs19">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&pause=1000&color=4ADE80&center=true&vCenter=true&width=760&lines=Hello+World!+%F0%9F%91%8B;I'm+Farid+Firdaus;Fullstack+Web+Developer;Mobile+App+Specialist;"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Hello+World!+%F0%9F%91%8B;I'm+Farid+Firdaus;Fullstack+Web+Developer;Mobile+App+Specialist;"
       alt="Typing SVG"
     />
   </a>
