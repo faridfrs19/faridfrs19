@@ -27,8 +27,8 @@
 
 <div align="center" style="max-width: 800px; margin: 0 auto;">
   <p align="center">
-    🚀 <strong>Passionate Developer</strong> dedicated to building high-performance applications with 
-    seamless UX. I bridge the gap between complex backend logic and beautiful frontend design.
+    I build modern web & mobile apps with a focus on <b>clean UI</b>, <b>performance</b>, and <b>security</b>.
+    Currently working with <b>React / Next.js</b> and <b>Flutter</b>.
   </p>
 </div>
 
