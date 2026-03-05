@@ -25,6 +25,13 @@
 
 <br/>
 
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <p align="center">
+    I build modern web & mobile apps with a focus on <b>clean UI</b>, <b>performance</b>, and <b>security</b>.
+    Currently working with <b>React / Next.js</b> and <b>Flutter</b>.
+  </p>
+</div>
+
 <div align="center">
   <h3 style="margin-bottom: 20px;">📊 My GitHub Analytics</h3>
   <a href="https://github.com/faridfrs19">
