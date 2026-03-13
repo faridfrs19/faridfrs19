@@ -21,14 +21,15 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center" style="max-width: 800px; margin: 0 auto;">
   <p align="center">
-    I build modern web & mobile apps with a focus on <b>clean UI</b>, <b>performance</b>, and <b>security</b>.
-    Currently working with <b>React / Next.js</b> and <b>Flutter</b>.
+    I build modern <b>Full-stack</b> web & mobile apps with a focus on <b>clean UI</b>, <b>high performance</b>, and <b>robust security</b>.
+    Current stack: <b>React / Next.js</b> & <b>Flutter</b> for frontend, powered by <b>Laravel</b> for scalable backends.
   </p>
 </div>
 
