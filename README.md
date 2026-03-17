@@ -1,12 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=120&section=header&text=Welcome%20to%20My%20Digital%20Garden&fontSize=30&animation=fadeIn&fontAlignY=50" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-grid.svg" width="100%" style="opacity: 0.3; margin-top: -50px;" />
-</div>
-
-<div align="center">
   <img
     src="https://i.imgur.com/7A5ZfPJ.gif"
     alt="hero"
@@ -61,14 +53,13 @@
 </div>
 
 <div align="center">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" style="border-radius: 2px;" />
-  </div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,php,js,mysql,tailwind&perline=8" />
-    <br/><br/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,php,js,mysql,tailwind&perline=8" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40" />
+</div>
+
+<div align="center">
+  <hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(74,222,128,.5), transparent); margin: 30px 0;" />
   <h3>🌐 Let's Build Something Great!</h3>
   
   <a href="https://www.youtube.com/@faridfrs0310" target="_blank">
