@@ -53,12 +53,6 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,php,js,mysql,tailwind&perline=8" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40" />
-</div>
-
-<div align="center">
   <hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(74,222,128,.5), transparent); margin: 30px 0;" />
   <h3>🌐 Let's Build Something Great!</h3>
   
