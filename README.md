@@ -67,3 +67,7 @@
 <p align="center" style="margin-top: 50px;">
   <img src="https://komarev.com/ghpvc/?username=faridfrs19&label=PROFILE+VIEWS&color=4ADE80&style=flat" alt="Views" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+</p>
