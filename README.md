@@ -36,7 +36,7 @@
 <div align="center">
   <h3 style="margin-bottom: 20px;">📊 My GitHub Analytics</h3>
   <a href="https://github.com/faridfrs19">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridfrs19&theme=tokyonight&border_radius=10" alt="Farid's Streak" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridfrs19&theme=transparent&border_radius=10" alt="Farid's Streak" height="170" />
   </a>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a149ad09d.gif" width="100%" />
 </div>
