@@ -26,11 +26,16 @@
 
 <br/>
 
-<div align="center" style="max-width: 800px; margin: 0 auto;">
-  <p align="center">
-    I build modern <b>Full-stack</b> web & mobile apps with a focus on <b>clean UI</b>, <b>high performance</b>, and <b>robust security</b>.
-    Current stack: <b>React / Next.js</b> & <b>Flutter</b> for frontend, powered by <b>Laravel</b> for scalable backends.
-  </p>
+<div align="center">
+  <table translate="no">
+    <tr>
+      <td align="center">
+        <p><i>"I build modern <b>Full-stack</b> web & mobile apps with a focus on <b>clean UI</b>, <b>high performance</b>, and <b>robust security</b>."</i></p>
+        <hr style="width: 50px; border: 1px solid #3B82F6; margin: 10px 0;" />
+        <p>Current stack: <code>React / Next.js</code> & <code>Flutter</code> powered by <code>Laravel</code></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
