@@ -46,8 +46,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a149ad09d.gif" width="100%" />
 </div>
 
-<br/>
-
 <div align="center">
   <h3 style="margin-bottom: 10px;">🐍 Contribution Journey</h3>
   <img
@@ -57,26 +55,48 @@
   />
 </div>
 
-<div align="center">
-  <hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, #3B82F6, transparent); margin: 40px 0;" />
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: #0f172a; border-radius: 24px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 50px rgba(0,0,0,0.3);">
   
-  <h3 style="margin-bottom: 20px;">🌐 Let's Build Something Great!</h3>
+  <div style="height: 2px; width: 100px; background: linear-gradient(90deg, #3B82F6, #2DD4BF); margin-bottom: 30px; border-radius: 2px;"></div>
 
-  <a href="https://www.youtube.com/@faridfrs0310" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/frd129_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-<br><br>
-
-  <p>
-    <a href="mailto:faridgans129@gmail.com">
-      <img src="https://img.shields.io/badge/Contact%20Me-4ADE80?style=flat-square&logo=Maildotru&logoColor=white" />
-    </a>
+  <h2 style="color: #f8fafc; font-size: 28px; font-weight: 800; letter-spacing: -0.025em; margin-bottom: 8px;">
+    Let's <span style="background: linear-gradient(to right, #3B82F6, #2DD4BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Build Something</span> Great!
+  </h2>
+  
+  <p style="color: #94a3b8; font-size: 16px; margin-bottom: 32px; max-width: 400px; line-height: 1.6;">
+    Connect with me on my digital spaces or drop a message to start a collaboration.
   </p>
+
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 35px;">
+    
+    <a href="https://www.youtube.com/@faridfrs0310" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(255,0,0,0.2);" 
+           onmouseover="this.style.transform='translateY(-5px)'" 
+           onmouseout="this.style.transform='translateY(0)'" />
+    </a>
+
+    <a href="https://www.instagram.com/frd129_" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(228,64,95,0.2);"
+           onmouseover="this.style.transform='translateY(-5px)'"
+           onmouseout="this.style.transform='translateY(0)'" />
+    </a>
+
+  </div>
+
+  <div style="margin-top: 20px;">
+    <a href="mailto:faridgans129@gmail.com" style="text-decoration: none;">
+      <div style="display: inline-flex; align-items: center; background: rgba(74, 222, 128, 0.1); border: 1px solid #4ADE80; color: #4ADE80; padding: 12px 28px; border-radius: 50px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; letter-spacing: 0.5px;"
+           onmouseover="this.style.background='#4ADE80'; this.style.color='#0f172a'; this.style.boxShadow='0 0 20px rgba(74,222,128,0.4)'" 
+           onmouseout="this.style.background='rgba(74, 222, 128, 0.1)'; this.style.color='#4ADE80'; this.style.boxShadow='none'">
+        📩 CONTACT ME
+      </div>
+    </a>
+  </div>
+
+  <hr style="border:none; height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent); margin-top: 40px;" />
+  
 </div>
 
 <p align="center" style="margin-top: 50px;">
