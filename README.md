@@ -68,21 +68,18 @@
   </p>
 
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 35px;">
-    
     <a href="https://www.youtube.com/@faridfrs0310" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
            style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(255,0,0,0.2);" 
            onmouseover="this.style.transform='translateY(-5px)'" 
            onmouseout="this.style.transform='translateY(0)'" />
     </a>
-
     <a href="https://www.instagram.com/frd129_" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
            style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(228,64,95,0.2);"
            onmouseover="this.style.transform='translateY(-5px)'"
            onmouseout="this.style.transform='translateY(0)'" />
     </a>
-
   </div>
 
   <div style="margin-top: 20px;">
