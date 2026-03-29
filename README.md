@@ -30,25 +30,16 @@
   <table translate="no">
     <tr>
       <td align="center">
-        <p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
-          <i>"I build modern <b>Full-stack</b> web & mobile apps with a focus on <b>clean UI</b>, <b>performance</b>, and <b>security</b>."</i>
-        </p>
+        <p><i>"I build modern <b>Full-stack</b> web & mobile apps with a focus on <b>clean UI</b>, <b>high performance</b>, and <b>robust security</b>."</i></p>
         <hr style="width: 50px; border: 1px solid #3B82F6; margin: 10px 0;" />
-        <p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="20" height="20" /> 
-          Current stack: <code>React / Next.js</code> & <code>Flutter</code> powered by <code>Laravel</code>
-        </p>
+        <p>Current stack: <code>React / Next.js</code> & <code>Flutter</code> powered by <code>Laravel</code></p>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <h3 style="margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> 
-    My GitHub Analytics
-  </h3>
+  <h3 style="margin-bottom: 10px;">📊 My GitHub Analytics</h3>
   <a href="https://github.com/faridfrs19">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridfrs19&theme=transparent&border_radius=10" alt="Farid's Streak" height="170" />
   </a>
@@ -56,10 +47,7 @@
 </div>
 
 <div align="center">
-  <h3 style="margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> 
-    Contribution Journey
-  </h3>
+  <h3 style="margin-bottom: 10px;">🐍 Contribution Journey</h3>
   <img
     src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
     alt="Snake animation"
@@ -67,13 +55,12 @@
   />
 </div>
 
-<!-- CONNECT SECTION -->
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: #0f172a; border-radius: 24px; border: 1px solid rgba(255,255,255,0.1);">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: #0f172a; border-radius: 24px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 50px rgba(0,0,0,0.3);">
   
   <div style="height: 2px; width: 100px; background: linear-gradient(90deg, #3B82F6, #2DD4BF); margin-bottom: 30px; border-radius: 2px;"></div>
 
-  <h2 style="color: #f8fafc; font-size: 28px; font-weight: 800; margin-bottom: 8px;">
-    Let's <span style="color: #3B82F6;">Build Something</span> Great!
+  <h2 style="color: #f8fafc; font-size: 28px; font-weight: 800; letter-spacing: -0.025em; margin-bottom: 8px;">
+    Let's <span style="background: linear-gradient(to right, #3B82F6, #2DD4BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Build Something</span> Great!
   </h2>
   
   <p style="color: #94a3b8; font-size: 16px; margin-bottom: 32px; max-width: 400px; line-height: 1.6;">
@@ -82,18 +69,25 @@
 
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 35px;">
     <a href="https://www.youtube.com/@faridfrs0310" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 8px;" />
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(255,0,0,0.2);" 
+           onmouseover="this.style.transform='translateY(-5px)'" 
+           onmouseout="this.style.transform='translateY(0)'" />
     </a>
     <a href="https://www.instagram.com/frd129_" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 8px;" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(228,64,95,0.2);"
+           onmouseover="this.style.transform='translateY(-5px)'"
+           onmouseout="this.style.transform='translateY(0)'" />
     </a>
   </div>
 
   <div style="margin-top: 20px;">
     <a href="mailto:faridgans129@gmail.com" style="text-decoration: none;">
-      <div style="display: inline-block; background: rgba(74, 222, 128, 0.1); border: 1px solid #4ADE80; color: #4ADE80; padding: 12px 28px; border-radius: 50px; font-weight: 600; font-size: 14px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-mail.png" alt="Email" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" />
-        CONTACT ME
+      <div style="display: inline-flex; align-items: center; background: rgba(74, 222, 128, 0.1); border: 1px solid #4ADE80; color: #4ADE80; padding: 12px 28px; border-radius: 50px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; letter-spacing: 0.5px;"
+           onmouseover="this.style.background='#4ADE80'; this.style.color='#0f172a'; this.style.boxShadow='0 0 20px rgba(74,222,128,0.4)'" 
+           onmouseout="this.style.background='rgba(74, 222, 128, 0.1)'; this.style.color='#4ADE80'; this.style.boxShadow='none'">
+        📩 CONTACT ME
       </div>
     </a>
   </div>
