@@ -36,12 +36,10 @@
           <span style="width: 12px; height: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block;"></span>
         </div>
         <p style="color: #d4d4d4; margin: 0; line-height: 1.6; font-size: 14px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" style="vertical-align: middle;"/> 
           <span style="color: #ce9178;">"I build modern <b style="color: #569cd6;">Full-stack</b> web & mobile apps with a focus on <b style="color: #4ec9b0;">clean UI</b>, <b style="color: #4ec9b0;">high performance</b>, and <b style="color: #4ec9b0;">robust security</b>."</span>
         </p>
-        <hr style="border: 0; border-top: 1px solid #333; margin: 15px 0;" /
+        <hr style="border: 0; border-top: 1px solid #333; margin: 15px 0;" />
         <p style="color: #9cdcfe; margin: 0; font-size: 14px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="18" height="18" style="vertical-align: middle;"/> 
           Current stack: 
           <code style="background: #2d2d2d; color: #b5cea8; padding: 2px 6px; border-radius: 4px;">React / Next.js</code> & 
           <code style="background: #2d2d2d; color: #b5cea8; padding: 2px 6px; border-radius: 4px;">Flutter</code> 
