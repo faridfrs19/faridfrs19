@@ -73,12 +73,8 @@
   <div style="height: 2px; width: 100px; background: linear-gradient(90deg, #3B82F6, #2DD4BF); margin-bottom: 30px; border-radius: 2px;"></div>
 
   <h2 style="color: #f8fafc; font-size: 28px; font-weight: 800; letter-spacing: -0.025em; margin-bottom: 8px;">
-    Let's <span style="background: linear-gradient(to right, #3B82F6, #2DD4BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Build Something</span> Great!
+    🚀 Let's <span style="background: linear-gradient(to right, #3B82F6, #2DD4BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Build Something</span> Great!
   </h2>
-  
-  <p style="color: #94a3b8; font-size: 16px; margin-bottom: 32px; max-width: 400px; line-height: 1.6;">
-    Connect with me on my digital spaces or drop a message to start a collaboration.
-  </p>
 
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 35px;">
     <a href="https://www.youtube.com/@faridfrs0310" target="_blank" style="text-decoration: none;">
