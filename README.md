@@ -23,6 +23,8 @@
 
 <br/>
 
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+
 <div align="center">
   <a href="https://github.com/faridfrs19">
     <img
@@ -39,32 +41,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
-<br/>
-
-<div align="center">
-  <table translate="no" style="border-collapse: collapse;">
-    <tr>
-      <td align="left" style="background-color: #1e1e1e; border: 1px solid #333; border-radius: 12px; padding: 20px; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;">
-        <div style="margin-bottom: 15px; display: flex; gap: 6px;">
-          <span style="width: 12px; height: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block;"></span>
-          <span style="width: 12px; height: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block;"></span>
-          <span style="width: 12px; height: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block;"></span>
-        </div>
-        <p style="color: #d4d4d4; margin: 0; line-height: 1.6; font-size: 14px;">
-          <span style="color: #ce9178;">"I build modern <b style="color: #569cd6;">Full-stack</b> web & mobile apps with a focus on <b style="color: #4ec9b0;">clean UI</b>, <b style="color: #4ec9b0;">high performance</b>, and <b style="color: #4ec9b0;">robust security</b>."</span>
-        </p>
-        <hr style="border: 0; border-top: 1px solid #333; margin: 15px 0;" />
-        <p style="color: #9cdcfe; margin: 0; font-size: 14px;">
-          Current stack: 
-          <code style="background: #2d2d2d; color: #b5cea8; padding: 2px 6px; border-radius: 4px;">React / Next.js</code> & 
-          <code style="background: #2d2d2d; color: #b5cea8; padding: 2px 6px; border-radius: 4px;">Flutter</code> 
-          <span style="color: #808080;">powered by</span> 
-          <code style="background: #2d2d2d; color: #b5cea8; padding: 2px 6px; border-radius: 4px;">Laravel</code>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
 <div align="center">
   <h3 style="margin-bottom: 10px;">📊 My GitHub Analytics</h3>
@@ -74,6 +51,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a149ad09d.gif" width="100%" />
 </div>
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 <div align="center">
   <h3 style="margin-bottom: 10px;">🐍 Contribution Journey</h3>
   <img
@@ -82,6 +61,8 @@
     style="width: 100%; max-width: 850px;"
   />
 </div>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: #0f172a; border-radius: 24px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 50px rgba(0,0,0,0.3);">
   
@@ -118,6 +99,8 @@
   
 </div>
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
 </p>
