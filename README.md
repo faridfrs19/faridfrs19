@@ -102,5 +102,5 @@
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer&width=100"/>
 </p>
