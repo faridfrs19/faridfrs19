@@ -64,24 +64,24 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: #0f172a; border-radius: 24px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 50px rgba(0,0,0,0.3);">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: radial-gradient(circle at top left, #1e293b, #0f172a); border-radius: 24px; border: 1px solid rgba(59, 130, 246, 0.2); box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);">
   
-  <div style="height: 2px; width: 100px; background: linear-gradient(90deg, #3B82F6, #2DD4BF); margin-bottom: 30px; border-radius: 2px;"></div>
+  <div style="height: 3px; width: 120px; background: linear-gradient(90deg, #2563eb, #3b82f6, #60a5fa); margin-bottom: 30px; border-radius: 10px; box-shadow: 0 0 15px rgba(37, 99, 235, 0.4);"></div>
 
   <h2 style="color: #f8fafc; font-size: 28px; font-weight: 800; letter-spacing: -0.025em; margin-bottom: 8px;">
-    🚀 Let's <span style="background: linear-gradient(to right, #3B82F6, #2DD4BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Build Something</span> Great!
+    🚀 Let's <span style="background: linear-gradient(to right, #2563eb, #60a5fa); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Build Something</span> Great!
   </h2>
 
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 35px;">
     <a href="https://www.youtube.com/@faridfrs0310" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(255,0,0,0.2);" 
+           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(37, 99, 235, 0.2);" 
            onmouseover="this.style.transform='translateY(-5px)'" 
            onmouseout="this.style.transform='translateY(0)'" />
     </a>
     <a href="https://www.instagram.com/frd129_" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(228,64,95,0.2);"
+           style="border-radius: 8px; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(37, 99, 235, 0.2);"
            onmouseover="this.style.transform='translateY(-5px)'"
            onmouseout="this.style.transform='translateY(0)'" />
     </a>
@@ -89,9 +89,9 @@
 
   <div style="margin-top: 20px;">
     <a href="mailto:faridgans129@gmail.com" style="text-decoration: none;">
-      <div style="display: inline-flex; align-items: center; background: rgba(74, 222, 128, 0.1); border: 1px solid #4ADE80; color: #4ADE80; padding: 12px 28px; border-radius: 50px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; letter-spacing: 0.5px;"
-           onmouseover="this.style.background='#4ADE80'; this.style.color='#0f172a'; this.style.boxShadow='0 0 20px rgba(74,222,128,0.4)'" 
-           onmouseout="this.style.background='rgba(74, 222, 128, 0.1)'; this.style.color='#4ADE80'; this.style.boxShadow='none'">
+      <div style="display: inline-flex; align-items: center; background: rgba(37, 99, 235, 0.1); border: 1px solid #3b82f6; color: #60a5fa; padding: 12px 28px; border-radius: 50px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; letter-spacing: 0.5px; box-shadow: 0 4px 15px rgba(37, 99, 235, 0.1);"
+           onmouseover="this.style.background='#2563eb'; this.style.color='#ffffff'; this.style.boxShadow='0 0 25px rgba(37, 99, 235, 0.5)'; this.style.borderColor='#60a5fa'" 
+           onmouseout="this.style.background='rgba(37, 99, 235, 0.1)'; this.style.color='#60a5fa'; this.style.boxShadow='none'; this.style.borderColor='#3b82f6'">
         📩 CONTACT ME
       </div>
     </a>
