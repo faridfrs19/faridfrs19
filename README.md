@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:60a5fa&height=180&section=header&text=Build%20Something%20Great&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:60a5fa&height=140&section=header&text=Build%20Something%20Great&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <br/>
 
