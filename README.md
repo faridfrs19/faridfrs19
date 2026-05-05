@@ -78,15 +78,11 @@
   <img src="https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:faridgans129@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT_ME-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Laravel+Developer;Next.js+Enthusiast;React+%26+TypeScript;Always+Learning+New+Things" />
 
 </div>
 
