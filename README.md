@@ -75,11 +75,11 @@
 </a>
 
 <a href="https://www.instagram.com/frd129_">
-  <img src="https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.tiktok.com/@lanadelrid03_">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-2563EB?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
 <br/>
