@@ -85,7 +85,7 @@
 <br/>
 
 <a href="mailto:faridgans129@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT_ME-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTACT_ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
