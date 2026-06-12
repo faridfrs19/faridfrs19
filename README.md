@@ -54,12 +54,13 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 <div align="center">
-  <h3 style="margin-bottom: 10px;">🐍 Contribution Journey</h3>
-  <img
-    src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
-    alt="Snake animation"
-    style="width: 100%; max-width: 850px;"
-  />
+<img src="https://img.shields.io/badge/🐍%20Contribution%20Journey-0D6EFD?style=for-the-badge" />
+<br><br>
+<img
+  src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
+  alt="Snake animation"
+  width="850"
+/>
 </div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
