@@ -54,7 +54,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 <div align="center">
-<img src="https://img.shields.io/badge/🐍%20Contribution%20Journey-0D6EFD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%20Contribution%20Journey-3B82F6?style=for-the-badge" />
 <br><br>
 <img
   src="https://raw.githubusercontent.com/faridfrs19/faridfrs19/output/snake.svg"
