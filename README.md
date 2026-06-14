@@ -44,7 +44,8 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
 <div align="center">
-  <h3 style="margin-bottom: 10px;">📊 My GitHub Analytics</h3>
+<img src="https://img.shields.io/badge/%20My%20GitHub%20Analytics-0D6EFD?style=for-the-badge" />
+<br><br>
   <a href="https://github.com/faridfrs19">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridfrs19&theme=transparent&border_radius=10" alt="Farid's Streak" height="170" />
   </a>
