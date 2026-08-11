@@ -41,6 +41,13 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
+<div align="center">
+  <br/>
+  <a href="https://farid-firdaus.vercel.app" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2563eb,100:60a5fa&height=50&width=320&section=header&text=EXPLORE%20MY%20PORTFOLIO&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="Portfolio" />
+  </a>
+</div>
+
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
 <div align="center">
