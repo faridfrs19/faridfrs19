@@ -79,23 +79,23 @@
 
 <br/>
 
-<a href="https://www.youtube.com/@faridfrs0310">
+<!-- <a href="https://www.youtube.com/@faridfrs0310">
   <img src="https://img.shields.io/badge/YouTube-2563EB?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+</a> -->
 
 <a href="https://www.instagram.com/frd129_">
-  <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTACT_ME-2563EB?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.tiktok.com/@lanadelrid03_">
+<!-- <a href="https://www.tiktok.com/@lanadelrid03_">
   <img src="https://img.shields.io/badge/TikTok-2563EB?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
+</a> -->
 
 <br/>
 
-<a href="mailto:faridgans129@gmail.com">
+<!-- <a href="mailto:faridgans129@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT_ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> -->
 
 </div>
 
